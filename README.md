@@ -1,0 +1,1 @@
+There 20 aminoacids which are made up of 3 RNA nts, called codon. An aminoacid is represented by at least one codon, which means two different codons may indicate same aa. Here, this program produces a protein which is an aa chain. For a given RNA string, this program manages to obtain the corresponding protein by matching all triples to aacids.  
